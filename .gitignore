@@ -23,3 +23,11 @@ Thumbs.db
 
 # Ignore Anki package files
 *.apkg
+
+# PyInstaller
+build/
+*.spec
+
+# Executables
+longmanToAnki.exe
+longmanToAnki
